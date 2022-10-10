@@ -1,12 +1,13 @@
 # Lending Page "The-Design-Thinking-superpowers"
 
-## CN"R:
-HTML5
-SCSS
-Адаптивная, кроссбраузерная верстка
-БЭМ
-WebPack
-JavaScript
+# Стэк:
+
+• HTML5
+• SCSS
+• JavaScript
+• Адаптивная, кроссбраузерная верстка
+• БЭМ
+• Webpack
 
 Реализовано: открытие модального окна, сортировка по тегам
 
